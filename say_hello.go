@@ -1,8 +1,5 @@
 package gomodsayhello
 
 func SayHello() string {
-
-	// retrun string hello saja
-	return "Hello"
-
+	return "Hello World"
 }
